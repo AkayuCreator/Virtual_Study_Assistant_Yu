@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Virtual Study Assistant/*
+!/Virtual Study Assistant/task/
+/Virtual Study Assistant/task/*
+!/Virtual Study Assistant/task/study_assistant.py
+!/Virtual Study Assistant/task/test
